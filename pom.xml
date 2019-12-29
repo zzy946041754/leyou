@@ -10,6 +10,9 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>leyou-registry</module>
+        <module>leyou-gateway</module>
+        <module>leyou-item</module>
+        <module>leyou-common</module>
     </modules>
 
 
